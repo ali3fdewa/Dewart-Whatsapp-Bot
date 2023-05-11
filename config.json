@@ -1,0 +1,33 @@
+{
+    "ownerNumber": ["6281525848626@s.whatsapp.net"],
+    "ownerName": "D E W A R T Z",
+    "instagram" : "https://instagram.com/alifdewa",
+    "gcwa" : "https://linkbio.co/dewartzbot,
+    "botName": "DWRTZZZ Bot",
+    "footer": "2023 © api.zeeoneofc.my.id",
+    "sessionName": "session",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./dwrtzzz.jpg",
+    "BotKey": "CXMPuJxgJkgYvbA",
+    "OpenAIKey": "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",
+    "audio_di_bagian_menu": "./menu.mp3",
+    "auto_ai_japri": false,
+    "auto_ai_grup": false,
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true, 
+    "antiViewOnce": true,
+    "grupOnly": false,
+    "japriOnly": false, 
+    "antiDelete": false,
+    "autobio": false,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
