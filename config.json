@@ -25,7 +25,7 @@
     "autoblok212": true,
     "autoread": true,
     "gamewaktu": 90,
-    "limitCount": 25,
+    "limitCount": 50,
     "gcount": {
         "prem": 1000,
         "user": 30
